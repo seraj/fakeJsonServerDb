@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "THIS IS TEST CONTENT",
+      "category": "IT",
+      "author": "Seraj",
+      "create_date": ""
+    },
+    {
+      "id": 1647610647516,
+      "title": "Seraj",
+      "create_date": "2022-03-24T12:37:13.843Z",
+      "author": "Seraj",
+      "category": "Fashion",
+      "content": "apidghadpvncojsdbgsd aoudgnoadlgadg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": "Seraj",
+      "body": "some comment"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "author": "JACK",
+      "body": "Awesome"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "author": "Bryan",
+      "body": "cool dude"
+    },
+    {
+      "id": 4,
+      "postId": 1,
+      "author": "Andre",
+      "body": "wow this looks great"
+    },
+    {
+      "id": 5,
+      "postId": 1,
+      "author": "Sara",
+      "body": "thanks for post this in your blog"
+    },
+    {
+      "id": 6,
+      "postId": 1,
+      "author": "Seraj",
+      "body": "Hello, it's me, i was wondering if after all this"
+    }
+  ],
+  "profile": {
+    "name": "Seraj Vahdati",
+    "email": "ss@s.com",
+    "password": "456789"
+  },
+  "login": {
+    "name": "Seraj Vahdati",
+    "email": "svahdati71@gmail.com",
+    "password": "seraj",
+    "token": "1352462563565243512"
+  },
+  "register": {}
+}
